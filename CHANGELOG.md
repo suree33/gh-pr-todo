@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.20](https://github.com/suree33/gh-pr-todo/compare/v1.1.19...v1.1.20) (2026-11-17)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump github.com/odvcencio/gotreesitter ([#185](https://github.com/suree33/gh-pr-todo/issues/185)) ([579b6d4](https://github.com/suree33/gh-pr-todo/commit/579b6d428ddaca949aed375286b12f64a6af0698))
+* **deps:** bump github.com/spf13/pflag from 1.0.10 to 1.1.0 ([#184](https://github.com/suree33/gh-pr-todo/issues/184)) ([4a760e0](https://github.com/suree33/gh-pr-todo/commit/4a760e08a606dc6a196d195ada512cb67cae09fd))
+
 ## [1.1.19](https://github.com/Suree33/gh-pr-todo/compare/v1.1.18...v1.1.19) (2026-10-28)
 
 

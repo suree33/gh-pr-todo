@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.21](https://github.com/suree33/gh-pr-todo/compare/v1.1.20...v1.1.21) (2026-11-28)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump github.com/odvcencio/gotreesitter ([#187](https://github.com/suree33/gh-pr-todo/issues/187)) ([b0d1f5f](https://github.com/suree33/gh-pr-todo/commit/b0d1f5f4369fa01fa4447be8a8201676d5d386f4))
+
 ## [1.1.20](https://github.com/suree33/gh-pr-todo/compare/v1.1.19...v1.1.20) (2026-11-17)
 
 
